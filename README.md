@@ -1,7 +1,7 @@
 ## Hi there, i'm Arthur Nunes 👋.
 
 ### Activity:
-![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=ArthurNunesPereira&show_icons=true&theme=tokyonight&include_all_commits=true) ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurNunesPereira&theme=tokyonight&layout=compact)
+![Arthur's github stats](https://github-readme-stats.vercel.app/api?username=ArthurNunesPereira&show_icons=true&theme=tokyonight) ![Arthur's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurNunesPereira&theme=tokyonight&layout=compact)
 ##
 ### Techs:
 <div style="display: inline_block"><br>
