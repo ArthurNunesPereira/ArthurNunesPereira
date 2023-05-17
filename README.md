@@ -1,9 +1,14 @@
 ## Hi there, i'm Arthur Nunes 👋.
 
-### Activity:
-![Arthur's github stats](https://github-readme-stats.vercel.app/api?username=ArthurNunesPereira&show_icons=true&theme=tokyonight&include_all_commits=true) ![Arthur's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurNunesPereira&theme=tokyonight&layout=compact)
-##
-### Techs:
+> I'm a Java Developer from Brazil.
+
+- 🌱 I’m currently learning **Java**.
+- 💬 Ask me about **Anything**, I am happy to help :smile:.
+- 🧗 I try to: **Go beyond and push the bounds**.
+- ⚡ I **Love** connecting with different people :raised_hands: .
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/arthur-nunes-pereira-35725a110/" target="_blank"><img align="center" height="25" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+## <img src="https://img.icons8.com/nolan/25/computer.png"/> Technologies
 <div style="display: inline_block"><br>
   <img align="center" alt="Arthur-Java" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
   <img align="center" alt="Arthur-MySql" height="34" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"">
@@ -14,14 +19,9 @@
   <img align="center" alt="Arthur-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="Arthur-Postman" height="30" width="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
 </div>
-
-## 
-
-### Contact:
-<div> 
-  <a href="https://www.linkedin.com/in/arthur-nunes-pereira-35725a110/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+                                                                                                                                        
+## <img src="https://img.icons8.com/nolan/26/github.png"/> Github Stats
+![Arthur's github stats](https://github-readme-stats.vercel.app/api?username=ArthurNunesPereira&show_icons=true&theme=tokyonight&include_all_commits=true) ![Arthur's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurNunesPereira&theme=tokyonight&layout=compact)
 
 <!-- Isso é um comentário
 **ArthurNunesPereira/ArthurNunesPereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
