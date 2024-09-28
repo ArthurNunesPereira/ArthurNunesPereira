@@ -2,7 +2,7 @@
 
 > I'm a Java Developer from Brazil.
 
-- 🌱 I’m currently learning **Java**.
+- 🌱 I’m currently learning **Java/Selenium**.
 - 💬 Ask me about **Anything**, I am happy to help :smile:.
 - 🧗 I try to: **Go beyond and push the bounds**.
 - ⚡ I **Love** connecting with different people :raised_hands: .
@@ -10,7 +10,8 @@
 
 ## <img src="https://img.icons8.com/nolan/25/computer.png"/> Technologies
 <div style="display: inline_block"><br>
-  <img align="center" alt="Arthur-Java" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
+  <img align="center" alt="Arthur-Java" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Arthur-Selenium" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
   <img align="center" alt="Arthur-MySql" height="34" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"">
   <img align="center" alt="Arthur-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Arthur-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
